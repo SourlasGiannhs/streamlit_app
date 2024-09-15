@@ -6,6 +6,4 @@ numpy
 plotly.express 
 pip
 matplotlib
-sklearn.manifold 
-sklearn.decomposition
-sklearn.ensemble
+umap-learn
